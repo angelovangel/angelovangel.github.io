@@ -5,7 +5,6 @@ subtitle: null
 published: true
 ---
 ## Angel Angelov, PhD
-**+49-179-4853057 | angel.angelov@med.uni-tuebingen.de**
 
 ## EXPERIENCE
 ### 2019-present
@@ -40,9 +39,9 @@ published: true
 
 ## SKILLS
 - **Programming and data analysis:** advanced R, Shiny, bash, aws, git, nextflow pipelines development. [Portfolio](https://angelovangel.github.io/portfolio), [GitHub repositories](https://github.com/angelovangel). 
-- **Microbiology and genetics:** extremophilic microorganisms, comparative genomics, metagenomics, carbohydrate-active enzymes, development of genetic tools, metabolic engineering, natural transformation.
 - **Analytical techniques:** NGS (all platforms), proteomics, various chromatography and spectrometry techniques (FPLC, HPLC, GC-MS), automated liquid handling systems
-- **Teaching:** supervision of Bachelor, Master and PhD students, courses in protein purification and R for life sciences.
+- **Microbiology and genetics:** extremophilic microorganisms, comparative genomics, metagenomics, carbohydrate-active enzymes, development of genetic tools, metabolic engineering, natural transformation.
+- **Teaching:** supervision of Bachelor, Master and PhD students, courses in NGS, protein purification and R for life sciences.
 - **Languages:** English (fluent), German (fluent), Bulgarian (native).
 
 ## EDUCATION
