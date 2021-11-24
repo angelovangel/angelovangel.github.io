@@ -1,5 +1,5 @@
 ---
-title: "Shiny apps"
+title: "Software"
 subtitle: ""
 published: true
 ---
@@ -7,7 +7,7 @@ published: true
 
 ***
 
-This is just a collection of links to Shiny apps as well as some R packages I have written. Most apps are running on a server in the cloud ([DigitalOcean](https://www.digitalocean.com/)), so all you need to use them is a decent web browser. The programs listed here are (hopefully) useful helpers in the daily work in a biology lab, but there are also apps from completely different fields, like visualization of your Google location or of the [openflights](https://openflights.org/) data. Of course, all is open source and the code can be found on [GitHub](https://github.com/angelovangel).   
+This is just a collection of links to Shiny apps as well as some programs I have written. Most apps are running on a server in the cloud ([DigitalOcean](https://www.digitalocean.com/)), so all you need to use them is a decent web browser. Of course, all is open source and the code can be found on [GitHub](https://github.com/angelovangel).   
 **Note**: *The DO instance serving the apps has only 1 CPU and 3 GB memory. However, you can also use the apps by downloading them from github and running locally...*    
 
 ***

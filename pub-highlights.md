@@ -1,6 +1,6 @@
 ---
 title: ''
-published: yes
+published: false
 subtitle: null
 layout: page
 ---
