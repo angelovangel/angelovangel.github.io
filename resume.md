@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 subtitle: null
-published: true
+published: false
 ---
 ## Angel Angelov, PhD
 
