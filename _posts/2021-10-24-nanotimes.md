@@ -7,7 +7,7 @@ date: '2021-10-24'
 
 ### Description
 
-`nanotimes` is a command line program for working with the time stamps of fastq files from 
+[`nanotimes`](https://github.com/angelovangel/nanotimes) is a command line program for working with the time stamps of fastq files from 
 Oxford Nanopore (ONT) sequencing. It is written in Rust and is thus very fast and has no runtime dependencies or overhead. Both `fastq` and `fastq.gz` files can be used.
 By reading the time stamps in the description field of the fastq file, it can be used to:
 

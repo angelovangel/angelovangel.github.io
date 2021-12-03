@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 published: true
 title: fastkmers - k-mer counts from a fastq/fasta file 
 date: '2021-12-03'
@@ -7,7 +7,7 @@ date: '2021-12-03'
 
 ## Description
 
-`fastkmers` is a simple program for getting k-mer counts from a fastq/fasta file, written in Rust.
+[`fastkmers`](https://github.com/angelovangel/fastkmers) is a simple program for getting k-mer counts from a fastq/fasta file, written in Rust.
 It takes a fastq/fasta file as input and outputs the counts of [k-mers](https://en.wikipedia.org/wiki/K-mer) of a specified length. It is implemented using hash tables and a simple algortihm but is still reasonably fast. The maximum supported k-mer size is 31.
 
 ## Install
