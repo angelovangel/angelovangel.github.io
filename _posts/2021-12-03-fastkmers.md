@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 published: true
 title: fastkmers - k-mer counts from a fastq/fasta file 
 date: '2021-12-03'
