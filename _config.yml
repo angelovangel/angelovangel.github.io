@@ -17,7 +17,7 @@ baseurl: ""
 title: Angel's R blog
 
 # Short description of your site
-description: mostly about R and NGS
+description: mostly about R, Rust and NGS
 
 # --- Navigation bar options --- #
 
